@@ -10,3 +10,4 @@ data/*.txt
 
 *.zip
 /model_factors.csv
+.streamlit/secrets.toml
