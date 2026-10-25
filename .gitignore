@@ -11,3 +11,5 @@ data/*.txt
 *.zip
 /model_factors.csv
 .streamlit/secrets.toml
+!data/processed_readmission.csv
+!readmission_model_calibrated.joblib
