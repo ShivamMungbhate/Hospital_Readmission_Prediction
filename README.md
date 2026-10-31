@@ -1,6 +1,6 @@
 # Hospital Patient Readmission Prediction System
 
-A college AIML project that uses historical hospital encounter data to estimate the probability of readmission within 30 days. It includes a machine-learning workflow and a Streamlit dashboard for exploring encounter patterns and predictions.
+This project uses historical hospital encounter data to estimate the probability of readmission within 30 days. It includes a machine-learning workflow and a Streamlit dashboard for exploring encounter patterns and predictions.
 
 ## Live Dashboard
 
